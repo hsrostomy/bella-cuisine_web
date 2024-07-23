@@ -1,0 +1,38 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.eshopsingle.customer",
+            "sha256_cert_fingerprints": [
+                "EC:51:47:B2:9F:17:D6:C9:39:A5:B9:10:00:38:C3:C0:9C:1F:03:D6:DD:7D:09:49:65:36:B7:34:DA:98:6A:F9"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.eshopsingle.customer",
+            "sha256_cert_fingerprints": [
+                "B4:B3:AD:26:FA:94:07:B0:EA:CC:30:7E:65:B3:AB:14:B9:98:BB:AB:2F:2C:FF:81:73:9A:6C:22:DF:7C:8C:42"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.eshopsingle.customer",
+            "sha256_cert_fingerprints": [
+                "2A:5A:EE:80:86:42:B8:2D:F8:E2:6E:D9:4A:79:4E:2D:A3:55:B1:54:3D:0B:69:B3:6C:E2:48:86:E6:82:07:2B"
+            ]
+        }
+    }
+]
